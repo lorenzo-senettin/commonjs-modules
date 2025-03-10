@@ -4,3 +4,5 @@ function fullName(firstName, lastName) {
     lastName
   };
 }
+
+module.exports = fullName;
